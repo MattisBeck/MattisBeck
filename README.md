@@ -2,7 +2,7 @@
 
 My name is Mattis. My goal, generally, is to learn and tinker around.
 
-How about you take a look at my [Website](https://mattisbeck.com)?
+How about you take a look at my [website](https://mattisbeck.com)?
 
 I would be very happy to hear from you, even if it's just to say hello!
 It would really make my day.
